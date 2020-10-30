@@ -1,0 +1,13 @@
+D:\CsharpConsole\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.exe
+D:\CsharpConsole\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.deps.json
+D:\CsharpConsole\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.json
+D:\CsharpConsole\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.dev.json
+D:\CsharpConsole\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.dll
+D:\CsharpConsole\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.pdb
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csprojAssemblyReference.cache
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfoInputs.cache
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfo.cs
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csproj.CoreCompileInputs.cache
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.dll
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.pdb
+D:\CsharpConsole\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.genruntimeconfig.cache
